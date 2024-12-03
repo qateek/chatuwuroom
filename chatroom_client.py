@@ -1,4 +1,4 @@
-#Coded by Yashraj Singh Chouhan
+#big booty fembois :3
 import socket, threading
 nickname = input("Choose your nickname: ")
 

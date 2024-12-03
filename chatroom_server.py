@@ -1,4 +1,4 @@
-#Coded by Yashraj Singh Chouhan
+#big booty fembois but server >:3
 import socket, threading                                                #Libraries import
 
 host = '127.0.0.1'                                                      #LocalHost
